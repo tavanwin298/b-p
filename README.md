@@ -18,3 +18,20 @@ function sort (array):
             if array[j] > array[j+1]:
                 swap array[j] with array[j+1]
                 printArray(array)
+
+print values section:
+
+create a list of the int_values
+print the list, unordered, so they know the before product
+
+swap function:
+
+test the swap first, giving to integers
+swap(&x, &y) will swap the values based on what they were originally
+and then they'll swap
+
+sort function: 
+
+sort function will sort the values into a new array, in smallest to largest order
+printf("After:" \n.) will print the after values in the array
+print(values) will priint the sorted array
